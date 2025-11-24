@@ -1,5 +1,7 @@
 # cachipun-butUalwaysLose
 
+![](./img/foto-cachipun.png)
+
 proyecto de p5js.
 
 cachipún, cachiripún, piedra papel o tijera, hakembó, rock paper sissor, chin chan pún, pikachú, etc.
